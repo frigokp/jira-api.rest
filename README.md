@@ -1,1 +1,1 @@
-# jira-api.rest
+# jira-api-rest
